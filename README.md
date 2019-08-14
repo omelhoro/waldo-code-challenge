@@ -2,11 +2,11 @@
 
 ## Start
 
-First you'll the parcel bundler globally then it should be pretty straightforward
+First you'll the parcel bundler globally then it should be pretty straightforward:
 
 ```
 npm i -g parcel-bundler
-npm i # should be executed in this root dir of this repo
+npm i # should be executed in the root dir of this repo
 npm run dev
 ```
 
@@ -22,4 +22,4 @@ The technologies were chosen according to the scope of the task:
 - Semantic UI for providing the styling
 - Parcel for easiness of the setup
 
-More complicated solutions with Apollo or Redux weren\'t used because I didn't want to over engineer this app, but certainly I'm convinced of this libraries and would use them in a more complex setting
+More complicated solutions with Apollo or Redux weren't used because I didn't want to over engineer this app, but certainly I'm convinced of this libraries and would use them in a more complex setting
