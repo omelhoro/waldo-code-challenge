@@ -1,0 +1,21 @@
+{
+  "name": "waldo-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "babel-polyfill": "^6.26.0",
+    "lodash": "^4.17.15",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "semantic-ui-react": "^0.87.3",
+    "typescript": "^3.5.3"
+  }
+}

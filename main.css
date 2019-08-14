@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#app {
+  width: 400px;
+}
+
+.ui.form {
+  padding: 15px 50px;
+}
+
+.list-item::after {
+  display: none !important;
+}
+
+.list-item {
+  align-items: center;
+  display: flex !important;
+  justify-content: space-between;
+}
+
+.loader {
+  height: 50px !important;
+}
+
+.total-value {
+  font-size: x-large;
+}
+
+h1 {
+  margin: 25px;
+  text-align: center;
+  margin-top: 25px !important;
+}
+
+.center-text {
+  text-align: center;
+}
