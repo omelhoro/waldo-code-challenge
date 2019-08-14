@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const waldo = axios.create({
-  baseURL: "https://core-graphql.dev.waldo.photos/pizza"
+  baseURL:
+    "https://cors-anywhere.herokuapp.com/https://core-graphql.dev.waldo.photos/pizza"
 });
 
 export function setDefaultToppings(pizzaConfig) {
